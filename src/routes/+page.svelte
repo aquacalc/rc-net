@@ -8,7 +8,7 @@
   <!-- </section> -->
 
 	<section>
-		<p>This site is under construction.</p>
+		<p style='text-align: center;'>This site is under construction.</p>
 		<p>
 			Please visit the website of the <a href="https://rachelcarsonhomestead.org/">Rachel Carson Homestead</a>, the
 			organization based in her hometown of <a
