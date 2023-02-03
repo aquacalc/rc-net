@@ -3,19 +3,22 @@
 </div>
 
 <div class="step-content">
-    <img src="Homestead.png" alt="Rachel Carson Homestead">
- 
+	<img src="Homestead.png" alt="Rachel Carson Homestead" />
+
 	<section>
-		<p style='text-align: center;'>🚧 This site is under construction 🛠</p>
+		<p style="text-align: center;">🚧 This site is under construction 🛠</p>
 		<p>
-			Please visit the website of the <a href="https://rachelcarsonhomestead.org/">Rachel Carson Homestead</a>, the
-			organization based in her hometown of <a
+			Please visit the website of the <a href="https://rachelcarsonhomestead.org/"
+				>Rachel Carson Homestead</a
+			>, the organization based in her hometown of
+			<a
 				href="https://www.google.com/maps/place/Rachel+Carson+Homestead/@40.5434951,-79.7895676,15z/data=!4m13!1m7!3m6!1s0x8834950150bdf767:0x71ce632b4904db0!2sSpringdale,+PA!3b1!8m2!3d40.5409008!4d-79.7839373!3m4!1s0x883495aa9f32c149:0x87dd70d27b9abeb6!8m2!3d40.5464262!4d-79.7833167"
-				>Springdale, Western Pennsylvania</a
-			>, that is dedicated to preserving, disseminating, and advancing Rachel Carson's work and environmental ethic.
+				target="_blank"
+				rel="noopener noreferrer">Springdale, Western Pennsylvania</a
+			>, that is dedicated to preserving, disseminating, and advancing Rachel Carson's work and
+			environmental ethic.
 		</p>
 	</section>
-
 </div>
 
 <style>
